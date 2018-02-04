@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+c817f1a42a74916950606f95b0050210be7cb9cd
+c817f1a42a74916950606f95b0050210be7cb9cd
+c817f1a42a74916950606f95b0050210be7cb9cd
+c817f1a42a74916950606f95b0050210be7cb9cd
+python-oauthlib_2.0.6.orig.tar.gz
+d4d2ee45822329b770f17591a417541bdd3c8928
+127675
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"

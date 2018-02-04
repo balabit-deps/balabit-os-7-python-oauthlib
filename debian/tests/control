@@ -1,0 +1,16 @@
+Tests: python-oauthlib
+Depends: python-all,
+         python-blinker,
+         python-cryptography,
+         python-jwt (>= 1.0.0),
+         python-mock,
+         python-nose,
+         python-unittest2
+
+Tests: python3-oauthlib
+Depends:  python3-all,
+          python3-blinker,
+          python3-cryptography,
+          python3-jwt (>= 1.0.0),
+          python3-mock,
+          python3-nose
